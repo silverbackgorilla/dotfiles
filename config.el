@@ -1,10 +1,26 @@
 
 (defvar my-term-shell "/bin/bash")
 (defadvice ansi-term (before force-bash)
-  (interactive (list my-term-shell)))
+  (intera
+Daniel Fhd
+Öffentlich kommentieren…
+ctive (list my-term-shell)))
 (ad-activate 'ansi-term)
 ;;Short windows + return
 (global-set-key (kbd "<s-return>") 'ansi-term)
+
+(use-package exwm
+  :ensure t
+  :config
+  (require 'exwm-config)
+  (exwm-config-default)
+  )
+
+(require 'exwm-systemtray)
+(exwm-systemtray-enable)
+
+(global-set-key (kbd "s-k") 'exwm-workspace-delete)
+(global-set-key (kbd "s-w") 'exwm-workspace-swap)
 
 (use-package org-bullets
   :ensure t
@@ -76,6 +92,27 @@
     (setq spaceline-line-p nil)
     (setq powerline-default-separator (quote arrow))
     (spaceline-spacemacs-theme))
+
+(use-package dmenu
+  :ensure t
+  :bind
+    ("s-f" . 'dmenu))
+
+(use-package symon
+  :ensure t
+  :bind
+  ("s-h" . symon-mode))
+
+(use-package popup-kill-ring
+:ensure t
+:bind ("M-y" . popup-kill-ring))
+
+(use-package ivy
+  :ensure t)
+
+(use-package swiper
+  :ensure t
+  :bind ("C-s" . swiper))
 
 (use-package flycheck
   :ensure t

@@ -1,1 +1,1 @@
-("~/.emacs.d/" "~/learning_js/")
+("~/.ihsec/emacs.d/" "~/learning_js/" "~/.emacs.d/")

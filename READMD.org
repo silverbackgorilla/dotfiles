@@ -1,1 +1,1 @@
-Basic emacs dotfiles
+Basic emacs dotfiles based on https://github.com/daedreth/UncleDavesEmacs

@@ -11,6 +11,7 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/home/.ihsec/emacs.d/"
  "/home/home/.emacs.d/"
  "/home/home/learning_js/cards/memorygame/"
  "/home/home/learning_js/cards/memorygame/css/"
@@ -29,11 +30,13 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/home/.emacs.d/" (23197 58524 594243 295000) "smex-items" "READMD.org~" "auto-save-list/" "init.el" "projectile-bookmarks.eld" "recentf" ".git/" "./" "config.org" "config.org~" "snippets/" "config.el" "init.el~" "../" "ido.last" "ido.last~" "elpa/" "emmet-mode/" "READMD.org")
+ ("/home/home/.ihsec/emacs.d/" (23198 29746 904898 825000) "smex-items" "dmenu-items" "auto-save-list/" "init.el" "projectile-bookmarks.eld" "recentf" ".git/" "./" "config.org" "snippets/" "config.el" "../" "ido.last" "elpa/" "emmet-mode/" "READMD.org")
+
+ ("/home/home/" (23198 29080 705849 517000) "newdotfiles/" "installationFiles/" "#*message*-20180227-201814#" ".esd_auth" ".xinitrc" ".zshrc" ".npm/" ".cache/" "emacs.d/" "yaourt/" ".viminfo" ".gitconfig" "emacsdUncleDave/" "error.e" ".dmrc" ".themes/" "*message*-20180305-161302" "ihsec/" ".gtkrc-2.0" ".nvm/" ".config/" "#deleteable.js#" "newEmacsdSettings/" "emacsd.bak/" "Tank.java" ".pki/" ".bash_profile" ".xsession-errors.old" ".ssh/" "coding/" "package-query/" ".atom/" "./" "#test.org#" ".zcompdump-campaq-5.4.2" "test.org" ".vim/" ".zsh_history" ".bashrc" "Videos/" "package-query.tar.gz" ".imwheelrc" "Documents/" ".local/" ".fonts.conf.d/" ".hplip/" "Desktop/" ".tern-project" ".fzf/" "Music/" ".fzf.zsh" ".cask/" ".ihsec/" "package-lock.json" "nnnn/" "Downloads/" "df.odt" ".mozilla/" ".xsession-errors" "Wallpapers/" ".fontconfig/" "Pictures/" "node_modules/" ".oh-my-zsh/" "emacsd01/" ".bash_logout" "learning_js/" ".zsh-update" ".emacs.d/" ".i3/" "../" ".gnupg/" ".icons/" ".bash_history" "Untitled 1.odt" ".fonts/" ".fzf.bash" "yaourt.tar.gz" ".Xauthority")
+
+ ("/home/home/.emacs.d/" (23198 28879 132492 477000) "smex-items" "dmenu-items" "auto-save-list/" "init.el" "projectile-bookmarks.eld" "recentf" ".git/" ".#config.org" "./" "config.org" "snippets/" "config.el" "../" "ido.last" "elpa/" "emmet-mode/" "READMD.org")
 
  ("/home/home/learning_js/cards/memorygame/" (23197 58527 538198 495000) ".tern-port" ".#app.js" "images/" "./" "app.js" "README.md" "css/" "index.html~" ".tern-project" "domer.java" "app.js~" "index.html" "../")
-
- ("/home/home/" (23197 57393 699263 543000) "newdotfiles/" "installationFiles/" "#*message*-20180227-201814#" ".esd_auth" ".xinitrc" ".zshrc" ".npm/" ".cache/" "yaourt/" ".viminfo" ".gitconfig" "emacsdUncleDave/" "error.e" ".dmrc" ".themes/" "*message*-20180305-161302" ".gtkrc-2.0" ".nvm/" ".config/" "#deleteable.js#" "newEmacsdSettings/" "emacsd.bak/" "Tank.java" ".pki/" ".bash_profile" ".xsession-errors.old" ".ssh/" "coding/" "package-query/" ".atom/" "./" "#test.org#" ".zcompdump-campaq-5.4.2" "test.org" ".vim/" ".zsh_history" ".bashrc" "Videos/" "package-query.tar.gz" ".imwheelrc" "Documents/" ".local/" ".fonts.conf.d/" ".hplip/" "Desktop/" ".tern-project" ".fzf/" "Music/" ".fzf.zsh" ".cask/" "package-lock.json" "nnnn/" "Downloads/" "df.odt" ".mozilla/" ".xsession-errors" "Wallpapers/" ".fontconfig/" "Pictures/" "node_modules/" ".oh-my-zsh/" "emacsd01/" ".bash_logout" "learning_js/" ".zsh-update" ".emacs.d/" ".i3/" "../" ".gnupg/" ".icons/" ".bash_history" "Untitled 1.odt" ".fonts/" ".fzf.bash" "yaourt.tar.gz" ".Xauthority")
 
  ("/home/home/Downloads/UncleDavesEmacs-master/" (23197 41942 863181 576000) "init.el" "README.org" "./" "config.org" ".gitignore" "../")
 
