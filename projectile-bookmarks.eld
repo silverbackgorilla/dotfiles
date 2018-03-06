@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/learning_js/")

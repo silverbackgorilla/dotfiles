@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/home/Downloads/" . "PNG/")
  ("/home/home/learning_js/cards/memorygame/" . "css/")
  ("/home/home/learning_js/cards/" . "memorygame/")
  ("/home/home/learning_js/" . "cards/")
@@ -11,33 +12,42 @@
 ;; ----- ido-work-directory-list -----
 (
  "/home/home/.emacs.d/"
- "/home/home/learning_js/cards/memorygame/css/"
  "/home/home/learning_js/cards/memorygame/"
+ "/home/home/learning_js/cards/memorygame/css/"
+ "/home/home/Downloads/UncleDavesEmacs-master/"
 )
 
 ;; ----- ido-work-file-list -----
 (
  "config.org"
+ "domer.java"
+ "init.el"
+ "app.js"
  "main.css"
  "index.html"
- "app.js"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/home/.emacs.d/" (23197 31835 963283 314000) "smex-items" "READMD.org~" "auto-save-list/" "init.el" ".git/" ".#config.org" "./" "config.org" "config.org~" "snippets/" "config.el" "init.el~" "../" "ido.last" "ido.last~" "elpa/" "emmet-mode/" "READMD.org")
+ ("/home/home/.emacs.d/" (23197 58524 594243 295000) "smex-items" "READMD.org~" "auto-save-list/" "init.el" "projectile-bookmarks.eld" "recentf" ".git/" "./" "config.org" "config.org~" "snippets/" "config.el" "init.el~" "../" "ido.last" "ido.last~" "elpa/" "emmet-mode/" "READMD.org")
 
- ("/home/home/learning_js/cards/memorygame/" (23197 31682 632565 402000) ".#index.html" "images/" "./" "app.js" "README.md" "css/" "index.html~" ".tern-project" "app.js~" "index.html" "../")
+ ("/home/home/learning_js/cards/memorygame/" (23197 58527 538198 495000) ".tern-port" ".#app.js" "images/" "./" "app.js" "README.md" "css/" "index.html~" ".tern-project" "domer.java" "app.js~" "index.html" "../")
 
- ("/home/home/learning_js/cards/memorygame/css/" (23197 31667 99389 420000) "main.css" ".#main.css" "./" "main.css~" "../")
+ ("/home/home/" (23197 57393 699263 543000) "newdotfiles/" "installationFiles/" "#*message*-20180227-201814#" ".esd_auth" ".xinitrc" ".zshrc" ".npm/" ".cache/" "yaourt/" ".viminfo" ".gitconfig" "emacsdUncleDave/" "error.e" ".dmrc" ".themes/" "*message*-20180305-161302" ".gtkrc-2.0" ".nvm/" ".config/" "#deleteable.js#" "newEmacsdSettings/" "emacsd.bak/" "Tank.java" ".pki/" ".bash_profile" ".xsession-errors.old" ".ssh/" "coding/" "package-query/" ".atom/" "./" "#test.org#" ".zcompdump-campaq-5.4.2" "test.org" ".vim/" ".zsh_history" ".bashrc" "Videos/" "package-query.tar.gz" ".imwheelrc" "Documents/" ".local/" ".fonts.conf.d/" ".hplip/" "Desktop/" ".tern-project" ".fzf/" "Music/" ".fzf.zsh" ".cask/" "package-lock.json" "nnnn/" "Downloads/" "df.odt" ".mozilla/" ".xsession-errors" "Wallpapers/" ".fontconfig/" "Pictures/" "node_modules/" ".oh-my-zsh/" "emacsd01/" ".bash_logout" "learning_js/" ".zsh-update" ".emacs.d/" ".i3/" "../" ".gnupg/" ".icons/" ".bash_history" "Untitled 1.odt" ".fonts/" ".fzf.bash" "yaourt.tar.gz" ".Xauthority")
+
+ ("/home/home/Downloads/UncleDavesEmacs-master/" (23197 41942 863181 576000) "init.el" "README.org" "./" "config.org" ".gitignore" "../")
+
+ ("/home/home/learning_js/cards/memorygame/css/" (23197 42314 158565 315000) "main.css" "./" "main.css~" "../")
+
+ ("/home/home/Downloads/" (23197 41691 815353 865000) "tern-master.zip" "cards_png_zip.zip" "emmet-mode-master.zip" "newEmmee/" "you-don-t-know-js.pdf" "UncleDavesEmacs-master/" "smihica_emmet-mode: emmet's support for emacs_files/" "__MACOSX/" ".emacs.d-master/" "./" "PNG-cards-1.3.zip" "smihica_emmet-mode: emmet's support for emacs.html" "Writing snippets.html" "UncleDavesEmacs-master.zip" "Writing snippets_files/" "emacs.d-master.zip" "You-Dont-Know-JS-master.zip" "thisEm/" "../" "PNG/")
+
+ ("/home/home/Downloads/PNG/" (21972 47474 0 0) "honor_clubs.png" "8D.png" "AS.png" "JS.png" "green_back.png" "6C.png" "QC.png" "KS.png" "3D.png" "3S.png" "back_cards-07.png" "9D.png" "4H.png" "QD.png" "AC.png" "KD.png" "6D.png" "5D.png" "JH.png" "honors_spade-14.png" "10C.png" "AD.png" "8S.png" "purple_back.png" "9C.png" "./" "3C.png" "5S.png" "10H.png" "yellow_back.png" "honor_diamond.png" "7D.png" "9H.png" "2D.png" "10D.png" "2H.png" "7S.png" "5C.png" "5H.png" "8H.png" "8C.png" "7H.png" "4C.png" "2S.png" "4D.png" "QH.png" "aces.png" "AH.png" "gray_back.png" "9S.png" "6H.png" "blue_back.png" "JD.png" "2C.png" "4S.png" "red_back.png" "10S.png" "7C.png" "../" "6S.png" "JC.png" "3H.png" "honor_heart-14.png" "KH.png" "KC.png" "QS.png")
 
  ("/home/home/learning_js/cards/" (23193 12811 194565 404000) ".tern-port" "./" ".tern-project" "poker/" "memorygame/" "../")
 
  ("/home/home/learning_js/" (23193 13276 465717 64000) "cards/" ".git/" "./" "README.md~" "README.md" ".tern-project" "../")
 
  ("/home/" (23186 40396 320278 154000) "ghizal/" "home/" "./" "../")
-
- ("/home/home/" (23197 25316 231368 4000) "newdotfiles/" "installationFiles/" "#*message*-20180227-201814#" ".esd_auth" ".xinitrc" ".zshrc" ".npm/" ".cache/" "yaourt/" ".viminfo" ".gitconfig" "emacsdUncleDave/" "error.e" ".dmrc" ".themes/" "*message*-20180305-161302" ".gtkrc-2.0" ".nvm/" ".config/" "#deleteable.js#" "newEmacsdSettings/" "emacsd.bak/" "Tank.java" ".pki/" ".bash_profile" ".xsession-errors.old" ".ssh/" "coding/" "package-query/" ".atom/" "./" "#test.org#" ".zcompdump-campaq-5.4.2" "test.org" ".vim/" ".zsh_history" ".bashrc" "Videos/" "package-query.tar.gz" ".imwheelrc" "Documents/" ".local/" ".fonts.conf.d/" ".hplip/" "Desktop/" ".tern-project" ".fzf/" "Music/" ".fzf.zsh" ".cask/" "package-lock.json" "Downloads/" "df.odt" ".mozilla/" ".xsession-errors" "Wallpapers/" ".fontconfig/" "Pictures/" "node_modules/" ".oh-my-zsh/" "emacsd01/" ".bash_logout" "learning_js/" ".zsh-update" ".emacs.d/" ".i3/" "../" ".gnupg/" ".icons/" ".bash_history" "Untitled 1.odt" ".fonts/" ".fzf.bash" "yaourt.tar.gz" ".Xauthority")
 )
 
 ;; ----- ido-unc-hosts-cache -----
